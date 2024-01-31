@@ -5,7 +5,6 @@ on:
     branches: [ "**" ]
   pull_request:
 
-
 jobs:
   build:
     # Only run on PRs if the source branch is on someone else's repo
